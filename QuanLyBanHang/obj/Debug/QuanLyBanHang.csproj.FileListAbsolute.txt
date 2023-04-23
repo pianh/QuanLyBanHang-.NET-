@@ -1,0 +1,13 @@
+C:\Users\Duy Anh\Documents\HK2-20222023\PTUDWD\Project\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\Duy Anh\Documents\HK2-20222023\PTUDWD\Project\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+C:\Users\Duy Anh\Documents\HK2-20222023\PTUDWD\Project\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+C:\Users\Duy Anh\Documents\HK2-20222023\PTUDWD\Project\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+C:\Users\Duy Anh\Documents\HK2-20222023\PTUDWD\Project\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\Duy Anh\Documents\HK2-20222023\PTUDWD\Project\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+C:\Users\Duy Anh\Documents\HK2-20222023\PTUDWD\Project\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+C:\Users\Duy Anh\Documents\HK2-20222023\PTUDWD\Project\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+C:\Users\Duy Anh\Documents\HK2-20222023\PTUDWD\Project\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+C:\Users\Duy Anh\Documents\HK2-20222023\PTUDWD\Project\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Menu.resources
+C:\Users\Duy Anh\Documents\HK2-20222023\PTUDWD\Project\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDangNhap.resources
+C:\Users\Duy Anh\Documents\HK2-20222023\PTUDWD\Project\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTacGia.resources
+C:\Users\Duy Anh\Documents\HK2-20222023\PTUDWD\Project\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHeThong.resources
